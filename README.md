@@ -1,2 +1,2 @@
 # aula_bootstrap
-Utilizando Boostrap
+Utilizando Bootstrap
